@@ -95,11 +95,13 @@ The model was compiled with the following configurations:
 
 The model was trained for 35 epochs with TensorBoard as a callback for monitoring training progress, tracking how loss decreased and accuracy increased with each epoch.
 
-<img src="epoch_accuracy.png" alt="Sample Image" width="80%">
 Epoch Accuracy
+<img src="epoch_accuracy.png" alt="Sample Image" width="80%">
 
-<img src="epoch_loss.png" alt="Sample Image" width="80%">
 Epoch Loss
+<img src="epoch_loss.png" alt="Sample Image" width="80%">
+
+Model is overfitting
 
 ## Model Saving
 

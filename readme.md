@@ -112,4 +112,4 @@ The model was evaluated on test images, comparing actual labels (`R`) with predi
 <img src="evaluation.png" alt="Sample Image" width="60%">
 
 The model has an accurace of 0.43.
-Which is low, It can be iporved with data augumentation , playing around with the batch size to reduce over fitting and improve the robustness of the model.
+Which is low, It can be improved with data augumentation , playing around with the batch size to reduce over fitting and improve the robustness of the model.
